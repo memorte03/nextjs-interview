@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "title": "Lkj",
+      "description": "Lkj",
+      "createdAt": "2023-11-30T18:08:21.989Z",
+      "id": 10
+    },
+    {
+      "title": "lol",
+      "description": "lol",
+      "createdAt": "2023-12-11T13:04:27.421Z",
+      "id": 11
+    },
+    {
+      "title": "super post",
+      "description": "lol",
+      "createdAt": "2023-12-11T13:04:35.882Z",
+      "id": 12
+    },
+    {
+      "title": "lol",
+      "description": "lol",
+      "createdAt": "2023-12-11T13:06:02.511Z",
+      "id": 13
+    },
+    {
+      "title": "my super new post",
+      "description": "lol",
+      "createdAt": "2023-12-11T13:21:13.930Z",
+      "id": 14
+    }
+  ]
+}

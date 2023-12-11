@@ -1,0 +1,30 @@
+@import 'variables';
+
+.container {
+  margin-bottom: $spacing-md;
+  width: 30rem;
+}
+
+.input {
+  width: 100%;
+  padding: $spacing-sm $spacing-md;
+}
+
+.text-area {
+  height: 8rem;
+  resize: none;
+}
+
+.label {
+  display: block;
+  font-weight: 500;
+  font-size: 0.875rem;
+  margin-bottom: $spacing-xs;
+}
+
+.error {
+  display: block;
+  color: $color-red-500;
+  font-size: 0.875rem;
+  margin-top: $spacing-xs;
+}
